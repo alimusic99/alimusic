@@ -20,3 +20,4 @@ body.style.background=
 color1.addEventListener("input", setGradient);
 
 color2.addEventListener("input" , setGradient);
+
